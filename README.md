@@ -1,6 +1,6 @@
 &nbsp;
 <div align=center>
-  <img src="https://github.com/Technician13/PCQR/blob/master/img/PCQR.svg?sanitize=true" width="300px">
+  <img src="https://github.com/Technician13/hygeia/blob/main/logo/Hygeia-06-smooth.svg?sanitize=true" width="300px">
 </div>
 
 ## 🎙️ Introduction
